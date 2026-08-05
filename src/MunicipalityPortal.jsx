@@ -336,7 +336,9 @@ export default function MunicipalityPortal() {
             </div>
             <div className="brand-name">
               <b>شهرداری نمونه</b>
+             
               <span>درگاه خدمات هوشمند شهروندی</span>
+             <span>Created by Mahyad</span>
             </div>
           </div>
           <nav className="nav-links">
