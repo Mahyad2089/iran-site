@@ -338,7 +338,7 @@ export default function MunicipalityPortal() {
               <b>شهرداری نمونه</b>
              
               <span>درگاه خدمات هوشمند شهروندی</span>
-             <span>Created by Mahyad</span>
+             
             </div>
           </div>
           <nav className="nav-links">
@@ -469,6 +469,7 @@ export default function MunicipalityPortal() {
               </svg>
             </div>
             <span>شهرداری شهرآفتاب — درگاه خدمات هوشمند شهروندی</span>
+          <span>Created by Mahyad</span>
           </div>
           <div className="footer-meta">© ۱۴۰۵ تمامی حقوق محفوظ است.</div>
         </div>
