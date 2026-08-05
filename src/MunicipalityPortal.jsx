@@ -336,7 +336,6 @@ export default function MunicipalityPortal() {
             </div>
             <div className="brand-name">
               <b>شهرداری نمونه</b>
-             
               <span>درگاه خدمات هوشمند شهروندی</span>
              
             </div>
@@ -469,7 +468,7 @@ export default function MunicipalityPortal() {
               </svg>
             </div>
             <span>شهرداری شهرآفتاب — درگاه خدمات هوشمند شهروندی</span>
-          <span>Created by Mahyad</span>
+            <span>Created by Mahyad</span>
           </div>
           <div className="footer-meta">© ۱۴۰۵ تمامی حقوق محفوظ است.</div>
         </div>
