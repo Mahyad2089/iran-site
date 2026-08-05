@@ -185,7 +185,7 @@ function ServiceLayout({ eyebrow, title, description, crumbs = [], children }) {
             </svg>
           </div>
           <div className="brand-name">
-            <b>شهرداری شهرآفتاب</b>
+            <b>شهرداری نمونه</b>
             <span>درگاه خدمات هوشمند شهروندی</span>
           </div>
         </div>
