@@ -467,7 +467,7 @@ export default function MunicipalityPortal() {
                 <path d="M12 2 L21 7.5 V16.5 L12 22 L3 16.5 V7.5 Z" stroke="white" strokeWidth="1.6" strokeLinejoin="round" />
               </svg>
             </div>
-            <span>شهرداری شهرآفتاب — درگاه خدمات هوشمند شهروندی</span>
+            <span>شهرداری نمونه — درگاه خدمات هوشمند شهروندی</span>
             <span>Created by Mahyad</span>
           </div>
           <div className="footer-meta">© ۱۴۰۵ تمامی حقوق محفوظ است.</div>
